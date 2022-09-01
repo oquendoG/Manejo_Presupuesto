@@ -1,0 +1,121 @@
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\appsettings.json
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\ManjeoPresupuesto.staticwebassets.runtime.json
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\ManjeoPresupuesto.exe
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\ManjeoPresupuesto.deps.json
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\ManjeoPresupuesto.runtimeconfig.json
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\ManjeoPresupuesto.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\ManjeoPresupuesto.pdb
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.csproj.AssemblyReference.cache
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.AssemblyInfoInputs.cache
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.AssemblyInfo.cs
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.RazorAssemblyInfo.cache
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.RazorAssemblyInfo.cs
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\scopedcss\bundle\ManjeoPresupuesto.styles.css
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\scopedcss\projectbundle\ManjeoPresupuesto.bundle.scp.css
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\refint\ManjeoPresupuesto.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.pdb
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.genruntimeconfig.cache
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ref\ManjeoPresupuesto.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Dapper.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Wilson\source\repos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.csproj.CopyComplete
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\appsettings.Development.json
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\appsettings.json
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\ManjeoPresupuesto.staticwebassets.runtime.json
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\ManjeoPresupuesto.exe
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\ManjeoPresupuesto.deps.json
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\ManjeoPresupuesto.runtimeconfig.json
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\ManjeoPresupuesto.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\ManjeoPresupuesto.pdb
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Azure.Core.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Azure.Identity.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Dapper.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.csproj.AssemblyReference.cache
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.AssemblyInfoInputs.cache
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.AssemblyInfo.cs
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.csproj.CoreCompileInputs.cache
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.MvcApplicationPartsAssemblyInfo.cache
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.RazorAssemblyInfo.cache
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.RazorAssemblyInfo.cs
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\staticwebassets.build.json
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\staticwebassets.development.json
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\scopedcss\bundle\ManjeoPresupuesto.styles.css
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\scopedcss\projectbundle\ManjeoPresupuesto.bundle.scp.css
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.csproj.CopyComplete
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\refint\ManjeoPresupuesto.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.pdb
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ManjeoPresupuesto.genruntimeconfig.cache
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\ref\ManjeoPresupuesto.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\obj\Debug\net6.0\scopedcss\Views\Cuentas\Index.cshtml.rz.scp.css
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\AutoMapper.dll
+F:\Proyectos .NET\Proyectos\ManjeoPresupuesto\ManjeoPresupuesto\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

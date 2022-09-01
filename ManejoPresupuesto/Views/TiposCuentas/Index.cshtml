@@ -1,0 +1,73 @@
+﻿@model IEnumerable<TipoCuenta>
+@{
+    ViewData["Title"] = "Listado tipos cuentas";
+}
+
+<h1>Tipos de cuentas</h1>
+<h5>Es como podemos agrupar cuentas</h5>
+
+<a asp-action="Crear" asp-controller="TiposCuentas" class="btn btn-primary mb-3">Crear nuevo</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Acciones</th>
+            <th>Nombre</th>
+        </tr>
+    </thead>
+    <tbody id="reordenable">
+        @foreach (var tipocuenta in Model)
+        {
+            <tr>
+                <td>
+                    <input type="hidden" class="ids" value="@tipocuenta.Id">
+                    <a asp-action="Editar" asp-route-id="@tipocuenta.Id" class="btn btn-primary">Editar</a>
+                    <a asp-action="Borrar" asp-route-id="@tipocuenta.Id" class="btn btn-danger">Borrar</a>
+                </td>
+                <td>
+                    @tipocuenta.Nombre
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+
+        const urlOrdenar = '@Url.Action("Ordenar")';
+
+        $(function() {
+
+            $("#reordenable").sortable({
+                stop: async function(e, ui) { actualizarOrdenes(); }
+            });
+
+            async function actualizarOrdenes() {
+                const ids = obtenerIdsDeElementos();
+                await enviarIdsAlBackend(ids);
+            }
+
+            function obtenerIdsDeElementos() {
+                const ids = $('.ids').map(function() {
+                    return $(this).val();
+                }).get();
+
+                return ids;
+            }
+
+            async function enviarIdsAlBackend(ids) {
+                var data = JSON.stringify(ids)
+
+                await fetch(urlOrdenar, {
+                    method: 'POST',
+                    body: data,
+                    headers: {
+                        'Content-Type': 'application/json'
+                    }
+                });
+            }
+
+        })
+    </script>
+}
